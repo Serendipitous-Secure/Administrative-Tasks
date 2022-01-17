@@ -1,0 +1,1 @@
+reg delete HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v HidePowerOptions /f
